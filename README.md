@@ -1,10 +1,6 @@
 # Interview-questions
 Javascript Interview Questions
 JS: Basics and Tricky Questions
-Part -2: intermediate
-June 22, 2014
-
-
 
 List of Questions
 
